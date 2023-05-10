@@ -3,7 +3,7 @@ Right out of the box, Sumz is an amazing tool that summerizes articles that tran
 
 Noteable Features of Sumz:
 
-Sumz was setup using ReactJS project using Vite.
+Sumz was setup using ReactJS project using Vite. <br />
 It was created with a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
 Sumz can make advanced RTK query API requests that fire on condition.
 Can save previous url history using the local storage reducing API request.
